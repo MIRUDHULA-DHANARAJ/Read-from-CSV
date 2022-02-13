@@ -6,7 +6,7 @@ To write a program that read the content from the csv file.
 ### Step 1:
 Import the module pandas.
 ### Step 2:
-Read the file content using pandas.read_csv()
+Read the file content using pandas.read_csv().
 ### Step 3:
 Print the first 10 columns fromn the file.
 ### Step 4:
